@@ -1,0 +1,12 @@
+C:\Users\Maricel\source\repos\QueuingProgram\QueuingProgram\obj\Debug\QueuingProgram.csprojAssemblyReference.cache
+C:\Users\Maricel\source\repos\QueuingProgram\QueuingProgram\obj\Debug\QueuingProgram.CashierWindowQueueForm.resources
+C:\Users\Maricel\source\repos\QueuingProgram\QueuingProgram\obj\Debug\QueuingProgram.QueuingForm.resources
+C:\Users\Maricel\source\repos\QueuingProgram\QueuingProgram\obj\Debug\QueuingProgram.Properties.Resources.resources
+C:\Users\Maricel\source\repos\QueuingProgram\QueuingProgram\obj\Debug\QueuingProgram.csproj.GenerateResource.cache
+C:\Users\Maricel\source\repos\QueuingProgram\QueuingProgram\obj\Debug\QueuingProgram.csproj.CoreCompileInputs.cache
+C:\Users\Maricel\source\repos\QueuingProgram\QueuingProgram\bin\Debug\QueuingProgram.exe.config
+C:\Users\Maricel\source\repos\QueuingProgram\QueuingProgram\bin\Debug\QueuingProgram.exe
+C:\Users\Maricel\source\repos\QueuingProgram\QueuingProgram\bin\Debug\QueuingProgram.pdb
+C:\Users\Maricel\source\repos\QueuingProgram\QueuingProgram\obj\Debug\QueuingProgram.exe
+C:\Users\Maricel\source\repos\QueuingProgram\QueuingProgram\obj\Debug\QueuingProgram.pdb
+C:\Users\Maricel\source\repos\QueuingProgram\QueuingProgram\obj\Debug\QueuingProgram.NowServingForm.resources
